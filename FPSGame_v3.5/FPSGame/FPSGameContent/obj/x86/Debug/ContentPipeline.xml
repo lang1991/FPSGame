@@ -1,0 +1,1050 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_rifle_movement.fbx</Source>
+      <Name>AssetCollection\Characters\Roland\Roland_rifle_movement</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb</Output>
+      <Time>2013-05-01T22:35:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Characters\Roland\Roland_rifle_movement_0.xml</Key>
+        <Value>2013-08-11T15:41:06.6504838-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb</Request>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\ground.fbx</Source>
+      <Name>AssetCollection\Map\ground</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Map\ground_0.xml</Key>
+        <Value>2013-08-11T15:41:08.839609-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\skybox_model.fbx</Source>
+      <Name>AssetCollection\Map\skybox_model</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Map\skybox_model_0.xml</Key>
+        <Value>2013-08-11T15:41:09.1066243-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\crate.fbx</Source>
+      <Name>AssetCollection\Scenery\crate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb</Output>
+      <Time>2013-05-01T22:36:14-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Scenery\crate_0.xml</Key>
+        <Value>2013-08-11T15:41:09.1386261-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\G_Man.fbx</Source>
+      <Name>AssetCollection\Scenery\G_Man</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Scenery\G_Man_0.xml</Key>
+        <Value>2013-08-11T15:41:09.2446321-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\weap_pistol_gestalt.fbx</Source>
+      <Name>AssetCollection\Weapons\weap_pistol_gestalt</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb</Output>
+      <Time>2013-05-01T22:37:38-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Weapons\weap_pistol_gestalt_0.xml</Key>
+        <Value>2013-08-11T15:41:09.6916577-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_bounding_box.fbx</Source>
+      <Name>AssetCollection\Characters\Roland\Roland_bounding_box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb</Output>
+      <Time>2013-05-01T22:35:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Characters\Roland\Roland_bounding_box_0.xml</Key>
+        <Value>2013-08-11T15:41:09.7446607-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\gestalt_alien_rifle_maya.fbx</Source>
+      <Name>AssetCollection\Weapons\gestalt_alien_rifle_maya</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.15</Data>
+        <Data Key="RotationY">90</Data>
+        <Data Key="RotationX">-90</Data>
+        <Data Key="RotationZ">-90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb</Output>
+      <Time>2013-05-01T22:37:12-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Weapons\gestalt_alien_rifle_maya_0.xml</Key>
+        <Value>2013-08-11T15:41:11.7057729-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb</Request>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.fbx</Source>
+      <Name>AssetCollection\Characters\Roland\Hands\Hands_sniperRifle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle_0.xml</Key>
+        <Value>2013-08-11T15:41:18.5841663-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Water\waterPlaneMesh.fbx</Source>
+      <Name>AssetCollection\Water\waterPlaneMesh</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb</Output>
+      <Time>2013-03-22T00:50:16-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Water\waterPlaneMesh_0.xml</Key>
+        <Value>2013-08-11T15:41:19.1862008-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\skySphereMesh.fbx</Source>
+      <Name>AssetCollection\Sky\skySphereMesh</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb</Output>
+      <Time>2013-03-21T20:21:00-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Sky\skySphereMesh_0.xml</Key>
+        <Value>2013-08-11T15:41:19.243204-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\tree.fbx</Source>
+      <Name>AssetCollection\Scenery\tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\tree.xnb</Output>
+      <Time>2013-05-02T16:13:42-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Scenery\tree_0.xml</Key>
+        <Value>2013-08-11T15:41:19.3692112-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb</Request>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\ship.fbx</Source>
+      <Name>AssetCollection\Scenery\ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\ship.xnb</Output>
+      <Time>2013-05-05T02:05:50-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Scenery\ship_0.xml</Key>
+        <Value>2013-08-11T15:41:19.854239-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\53AF23FE\ship.fbm\cs_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\boulder.fbx</Source>
+      <Name>AssetCollection\Scenery\boulder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\boulder.xnb</Output>
+      <Time>2013-05-05T02:08:08-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Scenery\boulder_0.xml</Key>
+        <Value>2013-08-11T15:41:20.3402668-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C28A2537\boulder.fbm\rock01_unbaked_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\blimp.fbx</Source>
+      <Name>AssetCollection\Scenery\blimp</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\blimp.xnb</Output>
+      <Time>2013-05-05T02:06:40-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\AssetCollection\Scenery\blimp_0.xml</Key>
+        <Value>2013-08-11T15:41:20.7062877-07:00</Value>
+      </Dependency>
+      <Request>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\77E4245E\blimp.fbm\Blimp_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\skybox_texture.dds</Source>
+      <Name>AssetCollection\Map\skybox_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\gunFire.png</Source>
+      <Name>AssetCollection\Effects\gunFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\gunFire2.png</Source>
+      <Name>AssetCollection\Effects\gunFire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.jpg</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2013-05-01T22:37:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\halo_sky2bk.tga</Source>
+      <Name>AssetCollection\Sky\halo_sky2bk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb</Output>
+      <Time>2013-03-21T18:46:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\halo_sky2dn.tga</Source>
+      <Name>AssetCollection\Sky\halo_sky2dn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb</Output>
+      <Time>2013-03-21T18:47:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\halo_sky2ft.tga</Source>
+      <Name>AssetCollection\Sky\halo_sky2ft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb</Output>
+      <Time>2013-03-21T18:46:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\halo_sky2lf.tga</Source>
+      <Name>AssetCollection\Sky\halo_sky2lf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb</Output>
+      <Time>2013-03-21T18:46:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\halo_sky2rt.tga</Source>
+      <Name>AssetCollection\Sky\halo_sky2rt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb</Output>
+      <Time>2013-03-21T18:46:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\halo_sky2up.tga</Source>
+      <Name>AssetCollection\Sky\halo_sky2up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb</Output>
+      <Time>2013-03-21T18:46:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\skySphereCubeMapHalo.dds</Source>
+      <Name>AssetCollection\Sky\skySphereCubeMapHalo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb</Output>
+      <Time>2013-03-21T20:06:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\skySphereCubeMapSunsetStorm.dds</Source>
+      <Name>AssetCollection\Sky\skySphereCubeMapSunsetStorm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb</Output>
+      <Time>2013-03-22T00:45:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\dirt0.jpg</Source>
+      <Name>AssetCollection\Terrain\dirt0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb</Output>
+      <Time>2013-03-22T15:42:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\dirt1.jpg</Source>
+      <Name>AssetCollection\Terrain\dirt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb</Output>
+      <Time>2013-03-22T15:43:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\grass.jpg</Source>
+      <Name>AssetCollection\Terrain\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb</Output>
+      <Time>2013-05-02T03:25:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\heightMap.jpg</Source>
+      <Name>AssetCollection\Terrain\heightMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb</Output>
+      <Time>2013-03-21T18:02:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\noiseTexture.jpg</Source>
+      <Name>AssetCollection\Terrain\noiseTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb</Output>
+      <Time>2013-03-21T18:12:34-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\rock0.jpg</Source>
+      <Name>AssetCollection\Terrain\rock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb</Output>
+      <Time>2013-03-22T13:27:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\rock1.jpg</Source>
+      <Name>AssetCollection\Terrain\rock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb</Output>
+      <Time>2013-03-22T15:44:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\sand.jpg</Source>
+      <Name>AssetCollection\Terrain\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb</Output>
+      <Time>2013-05-02T04:23:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\snow.jpg</Source>
+      <Name>AssetCollection\Terrain\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb</Output>
+      <Time>2013-05-02T04:23:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\terrainMap.jpg</Source>
+      <Name>AssetCollection\Terrain\terrainMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb</Output>
+      <Time>2013-05-02T03:10:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Terrain\wood.jpg</Source>
+      <Name>AssetCollection\Terrain\wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb</Output>
+      <Time>2013-03-22T15:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Water\ripplesNormalMap.jpg</Source>
+      <Name>AssetCollection\Water\ripplesNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb</Output>
+      <Time>2013-03-22T01:57:34-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\Skybox.fx</Source>
+      <Name>AssetCollection\Effects\Skybox</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\BillboardEffect.fx</Source>
+      <Name>AssetCollection\Effects\BillboardEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\GunShot.fx</Source>
+      <Name>AssetCollection\Effects\GunShot</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\ParticleEffect.fx</Source>
+      <Name>AssetCollection\Effects\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\TerrainEffect.fx</Source>
+      <Name>AssetCollection\Effects\TerrainEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb</Output>
+      <Time>2013-03-22T13:40:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\WaterEffect.fx</Source>
+      <Name>AssetCollection\Effects\WaterEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb</Output>
+      <Time>2013-03-22T02:03:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\SkyEffect.fx</Source>
+      <Name>AssetCollection\Effects\SkyEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb</Output>
+      <Time>2013-03-22T13:42:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AwpSound.wav</Source>
+      <Name>AwpSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound2.wav</Source>
+      <Name>sound2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb</Output>
+      <Time>2013-05-01T22:37:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\AwpSound.wav</Source>
+      <Name>AssetCollection\Audio\AwpSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\die1.wav</Source>
+      <Name>AssetCollection\Audio\die1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\die2.wav</Source>
+      <Name>AssetCollection\Audio\die2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\die3.wav</Source>
+      <Name>AssetCollection\Audio\die3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\dryfire_rifle.wav</Source>
+      <Name>AssetCollection\Audio\dryfire_rifle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\headshot1.wav</Source>
+      <Name>AssetCollection\Audio\headshot1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\headshot2.wav</Source>
+      <Name>AssetCollection\Audio\headshot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\headshot3.wav</Source>
+      <Name>AssetCollection\Audio\headshot3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\pl_step1.wav</Source>
+      <Name>AssetCollection\Audio\pl_step1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\pl_step2.wav</Source>
+      <Name>AssetCollection\Audio\pl_step2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\pl_step3.wav</Source>
+      <Name>AssetCollection\Audio\pl_step3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\pl_step4.wav</Source>
+      <Name>AssetCollection\Audio\pl_step4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\ric_conc-1.wav</Source>
+      <Name>AssetCollection\Audio\ric_conc-1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\ric_conc-2.wav</Source>
+      <Name>AssetCollection\Audio\ric_conc-2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\ric_metal-1.wav</Source>
+      <Name>AssetCollection\Audio\ric_metal-1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\ric_metal-2.wav</Source>
+      <Name>AssetCollection\Audio\ric_metal-2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Audio\zoom.wav</Source>
+      <Name>AssetCollection\Audio\zoom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb</Output>
+      <Time>2013-05-02T15:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuMusic.mp3</Source>
+      <Name>MainMenuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb</Output>
+      <Extra>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma</Extra>
+      <Time>2013-05-01T22:38:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_rifle_movement.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Characters\Roland\Roland_rifle_movement_0.xml</Output>
+      <Time>2013-05-01T22:35:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb</Output>
+      <Time>2013-05-01T22:35:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb</Output>
+      <Time>2013-05-01T22:35:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\ground.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Map\ground_0.xml</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\ground.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\skybox_model.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Map\skybox_model_0.xml</Output>
+      <Time>2013-05-01T22:37:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\crate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Scenery\crate_0.xml</Output>
+      <Time>2013-05-01T22:36:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\Crate.fbm\Crate_texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb</Output>
+      <Time>2013-05-01T22:36:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\G_Man.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Scenery\G_Man_0.xml</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\G_Man_texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb</Output>
+      <Time>2013-05-01T22:36:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\weap_pistol_gestalt.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Weapons\weap_pistol_gestalt_0.xml</Output>
+      <Time>2013-05-01T22:37:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_bounding_box.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Characters\Roland\Roland_bounding_box_0.xml</Output>
+      <Time>2013-05-01T22:35:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\gestalt_alien_rifle_maya.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Weapons\gestalt_alien_rifle_maya_0.xml</Output>
+      <Time>2013-05-01T22:37:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb</Output>
+      <Time>2013-08-11T15:41:10.7827201-07:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb</Output>
+      <Time>2013-08-11T15:41:10.7857203-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle_0.xml</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Hands\tex_hands_dif.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb</Output>
+      <Time>2013-05-01T22:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Water\waterPlaneMesh.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Water\waterPlaneMesh_0.xml</Output>
+      <Time>2013-03-22T00:50:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Sky\skySphereMesh.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Sky\skySphereMesh_0.xml</Output>
+      <Time>2013-03-21T20:21:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\tree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Scenery\tree_0.xml</Output>
+      <Time>2013-05-02T16:13:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\thick_trunk.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb</Output>
+      <Time>2009-11-22T21:27:50-08:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\pine_branches01.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb</Output>
+      <Time>2010-10-20T02:20:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Scenery\ship_0.xml</Output>
+      <Time>2013-05-05T02:05:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\53AF23FE\ship.fbm\cs.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\53AF23FE\ship.fbm\cs_0.xnb</Output>
+      <Time>2013-08-11T15:41:19.8432384-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\boulder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Scenery\boulder_0.xml</Output>
+      <Time>2013-05-05T02:08:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\C28A2537\boulder.fbm\rock01_unbaked.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C28A2537\boulder.fbm\rock01_unbaked_0.xnb</Output>
+      <Time>2013-08-11T15:41:20.3302662-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\blimp.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\AssetCollection\Scenery\blimp_0.xml</Output>
+      <Time>2013-05-05T02:06:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\77E4245E\blimp.fbm\Blimp_texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\77E4245E\blimp.fbm\Blimp_texture_0.xnb</Output>
+      <Time>2013-08-11T15:41:20.694287-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGameContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>H:\Academic\Portfolio\FPSGame_v3.5\SkinningInformation\bin\x86\Debug\SkinningInformation.dll</Key>
+        <Value>2013-08-11T09:50:19.1809998-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>H:\Academic\Portfolio\FPSGame_v3.5\SkinnedModelProcessor\bin\x86\Debug\SkinnedModelProcessor.dll</Key>
+        <Value>2013-08-11T09:50:19.3220079-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-11T09:48:57.1053054-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,17 @@
+Draw_01 0 25
+Draw_02 26 51
+Draw_Slow_01 52 68
+Draw_Slow_02 69 84
+fire_01 85 97
+fire_02 98 107
+fire_Slow_01 108 130
+fire_Slow_02 131 141
+grenade_throw_01 142 182
+Holster_01 183 188
+Holster_Slow_01 189 194
+idle_01 195 253
+Reload_01 254 306
+RELOAD_02 307 352
+Reload_Slow_01 353 458
+RELOAD_Slow_02 459 518
+Sprint 519 533

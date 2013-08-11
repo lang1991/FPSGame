@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_rifle_movement.fbx</Source>
+      <Name>AssetCollection\Characters\Roland\Roland_rifle_movement</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb</Output>
+      <Time>2013-04-18T16:43:46.2048842-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Characters\Roland\Roland_rifle_movement_0.xml</Key>
+        <Value>2013-04-18T16:50:16.9172317-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb</Request>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\ground.fbx</Source>
+      <Name>AssetCollection\Map\ground</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb</Output>
+      <Time>2013-04-18T16:44:06.184027-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Map\ground_0.xml</Key>
+        <Value>2013-04-18T16:50:19.3083684-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\skybox_model.fbx</Source>
+      <Name>AssetCollection\Map\skybox_model</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb</Output>
+      <Time>2013-04-18T16:44:06.1910274-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Map\skybox_model_0.xml</Key>
+        <Value>2013-04-18T16:50:19.5843842-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\crate.fbx</Source>
+      <Name>AssetCollection\Scenery\crate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb</Output>
+      <Time>2013-04-18T16:43:49.3430637-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Scenery\crate_0.xml</Key>
+        <Value>2013-04-18T16:50:19.6213863-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\G_Man.fbx</Source>
+      <Name>AssetCollection\Scenery\G_Man</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb</Output>
+      <Time>2013-04-18T16:43:48.9750427-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Scenery\G_Man_0.xml</Key>
+        <Value>2013-04-18T16:50:19.7233922-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\weap_pistol_gestalt.fbx</Source>
+      <Name>AssetCollection\Weapons\weap_pistol_gestalt</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb</Output>
+      <Time>2013-04-18T16:44:04.8419502-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Weapons\weap_pistol_gestalt_0.xml</Key>
+        <Value>2013-04-18T16:50:20.3104258-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_bounding_box.fbx</Source>
+      <Name>AssetCollection\Characters\Roland\Roland_bounding_box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb</Output>
+      <Time>2013-04-18T16:43:46.2068843-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Characters\Roland\Roland_bounding_box_0.xml</Key>
+        <Value>2013-04-18T16:50:20.3644288-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\gestalt_alien_rifle_maya.fbx</Source>
+      <Name>AssetCollection\Weapons\gestalt_alien_rifle_maya</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.15</Data>
+        <Data Key="RotationY">90</Data>
+        <Data Key="RotationX">-90</Data>
+        <Data Key="RotationZ">-90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb</Output>
+      <Time>2013-04-18T16:43:58.7526019-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Weapons\gestalt_alien_rifle_maya_0.xml</Key>
+        <Value>2013-04-18T16:50:22.9155748-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_diff_0.xnb</Request>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_ammo_diff_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.fbx</Source>
+      <Name>AssetCollection\Characters\Roland\Hands\Hands_sniperRifle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb</Output>
+      <Time>2013-04-18T16:43:48.4190109-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle_0.xml</Key>
+        <Value>2013-04-18T16:50:30.367001-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\skybox_texture.dds</Source>
+      <Name>AssetCollection\Map\skybox_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb</Output>
+      <Time>2013-04-18T16:44:06.1810268-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\gunFire.png</Source>
+      <Name>AssetCollection\Effects\gunFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb</Output>
+      <Time>2013-04-18T16:43:48.5370176-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\gunFire2.png</Source>
+      <Name>AssetCollection\Effects\gunFire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb</Output>
+      <Time>2013-04-18T16:43:48.5450181-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.jpg</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2013-04-18T16:44:08.4011538-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\Skybox.fx</Source>
+      <Name>AssetCollection\Effects\Skybox</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb</Output>
+      <Time>2013-04-18T16:43:48.5470182-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\BillboardEffect.fx</Source>
+      <Name>AssetCollection\Effects\BillboardEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb</Output>
+      <Time>2013-04-18T16:43:48.5410178-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\GunShot.fx</Source>
+      <Name>AssetCollection\Effects\GunShot</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb</Output>
+      <Time>2013-04-18T16:43:48.5430179-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Effects\ParticleEffect.fx</Source>
+      <Name>AssetCollection\Effects\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb</Output>
+      <Time>2013-04-18T16:43:48.5490183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-04-18T16:44:06.4220406-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AwpSound.wav</Source>
+      <Name>AwpSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb</Output>
+      <Time>2013-04-18T16:44:06.4270409-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound2.wav</Source>
+      <Name>sound2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb</Output>
+      <Time>2013-04-18T16:44:08.3921533-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuMusic.mp3</Source>
+      <Name>MainMenuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb</Output>
+      <Extra>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma</Extra>
+      <Time>2013-04-18T16:44:17.3526658-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_rifle_movement.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Characters\Roland\Roland_rifle_movement_0.xml</Output>
+      <Time>2013-04-18T16:43:46.2048842-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb</Output>
+      <Time>2013-04-18T16:43:46.2228852-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb</Output>
+      <Time>2013-04-18T16:43:36.1223075-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\ground.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Map\ground_0.xml</Output>
+      <Time>2013-04-18T16:44:06.184027-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\ground.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb</Output>
+      <Time>2013-04-18T16:44:06.1880272-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Map\skybox_model.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Map\skybox_model_0.xml</Output>
+      <Time>2013-04-18T16:44:06.1910274-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\crate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Scenery\crate_0.xml</Output>
+      <Time>2013-04-18T16:43:49.3430637-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\Crate.fbm\Crate_texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb</Output>
+      <Time>2013-04-18T16:43:48.9850432-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\G_Man.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Scenery\G_Man_0.xml</Output>
+      <Time>2013-04-18T16:43:48.9750427-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Scenery\G_Man_texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb</Output>
+      <Time>2013-04-18T16:43:48.9800429-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\weap_pistol_gestalt.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Weapons\weap_pistol_gestalt_0.xml</Output>
+      <Time>2013-04-18T16:44:04.8419502-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Roland_bounding_box.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Characters\Roland\Roland_bounding_box_0.xml</Output>
+      <Time>2013-04-18T16:43:46.2068843-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Weapons\gestalt_alien_rifle_maya.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Weapons\gestalt_alien_rifle_maya_0.xml</Output>
+      <Time>2013-04-18T16:43:58.7526019-07:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\FBX\7352F76\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_diff_0.xnb</Output>
+      <Time>2013-04-18T16:50:21.5724979-07:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\FBX\7352F76\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_ammo_diff_0.xnb</Output>
+      <Time>2013-04-18T16:50:21.5744981-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle_0.xml</Output>
+      <Time>2013-04-18T16:43:48.4190109-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AssetCollection\Characters\Roland\Hands\tex_hands_dif.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb</Output>
+      <Time>2013-04-18T16:43:48.4230111-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CF030286-2F5A-45AA-92A5-057A7BF0E963}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\SkinningInformation\bin\x86\Debug\SkinningInformation.dll</Key>
+        <Value>2013-04-18T16:50:05.9616051-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Jeff\SVN Work\ITP 380 Final Project\SkinnedModelProcessor\bin\x86\Debug\SkinnedModelProcessor.dll</Key>
+        <Value>2013-04-18T16:50:06.0896124-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-09T13:54:24.6659012-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

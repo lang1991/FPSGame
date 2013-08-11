@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\Specular.fx</Source>
+      <Name>Effects\Specular</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Effects\Specular.xnb</Output>
+      <Time>2011-09-03T21:53:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Textured.fx</Source>
+      <Name>Effects\Textured</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Effects\Textured.xnb</Output>
+      <Time>2011-09-03T21:53:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\NormalMap.fx</Source>
+      <Name>Effects\NormalMap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Effects\NormalMap.xnb</Output>
+      <Time>2011-09-03T21:53:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Skybox.fx</Source>
+      <Name>Skyboxes\Skybox</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Skyboxes\Skybox.xnb</Output>
+      <Time>2011-09-04T00:46:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Ambient.fx</Source>
+      <Name>Effects\Ambient</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Effects\Ambient.xnb</Output>
+      <Time>2011-09-03T21:57:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Helicopter.fbx</Source>
+      <Name>Models\Helicopter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Models\Helicopter.xnb</Output>
+      <Time>2011-09-03T11:57:48-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Helicopter_0.xml</Key>
+        <Value>2013-02-18T22:48:21.8235288-08:00</Value>
+      </Dependency>
+      <Request>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Models\HelicopterTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Skyboxes\cube.fbx</Source>
+      <Name>Skyboxes\cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Skyboxes\cube.xnb</Output>
+      <Time>2011-09-03T19:55:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Skyboxes\cube_0.xml</Key>
+        <Value>2013-02-18T22:48:22.2185514-08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\HelicopterTexture.png</Source>
+      <Name>Textures\HelicopterTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Textures\HelicopterTexture.xnb</Output>
+      <Time>2011-09-03T16:15:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HelicopterNormalMap.tga</Source>
+      <Name>Textures\HelicopterNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Textures\HelicopterNormalMap.xnb</Output>
+      <Time>2011-09-03T16:53:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Sunset.dds</Source>
+      <Name>Skyboxes\Sunset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Skyboxes\Sunset.xnb</Output>
+      <Time>2011-09-03T19:46:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Helicopter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Helicopter_0.xml</Output>
+      <Time>2011-09-03T11:57:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\HelicopterTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\Models\HelicopterTexture_0.xnb</Output>
+      <Time>2011-09-03T11:57:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Skyboxes\cube_0.xml</Output>
+      <Time>2011-09-03T19:55:26-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\ShadersContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\ShadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Academic\Current_Classes\ITP380\tlang\scratch\scratchContent\Shaders\Shaders\Shaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-31T01:49:49.5163238-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

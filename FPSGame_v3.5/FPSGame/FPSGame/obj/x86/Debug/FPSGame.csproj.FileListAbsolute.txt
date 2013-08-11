@@ -1,0 +1,1342 @@
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\view_glove_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\view_skin_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\view_finger_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\scope_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\buttstock_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\barrel_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\newparts_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\scope_clamps_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\ejector_port_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\base_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\magazine_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\bolt_handle_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\23D1267F\awp.fbm\newparts2_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\view_glove_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\view_skin_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\view_finger_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\scope_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\buttstock_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\barrel_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\newparts_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\scope_clamps_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\ejector_port_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\base_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\magazine_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\bolt_handle_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D3212AA6\awp.fbm\newparts2_0.xnb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\current\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\view_glove_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\view_skin_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\view_finger_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\scope_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\buttstock_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\barrel_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\newparts_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\scope_clamps_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\ejector_port_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\base_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\magazine_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\bolt_handle_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\80202747\awp.fbm\newparts2_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\1B4C2FD3\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\1B4C2FD3\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\view_glove_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\view_skin_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\view_finger_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\scope_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\buttstock_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\barrel_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\newparts_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\scope_clamps_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\ejector_port_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\base_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\magazine_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\bolt_handle_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B7E327A6\awp.fbm\newparts2_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5ADA3032\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5ADA3032\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+E:\Academic\Current_Classes\ITP380\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\view_glove_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\view_skin_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\view_finger_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\scope_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\buttstock_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\barrel_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\newparts_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\scope_clamps_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\ejector_port_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\base_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\magazine_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\bolt_handle_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\newparts2_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_diff_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Jeff\Desktop\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\ITP\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITP\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ITP\Desktop\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\view_glove_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\view_skin_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\view_finger_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\scope_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\buttstock_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\barrel_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\newparts_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\scope_clamps_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\ejector_port_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\base_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\magazine_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\bolt_handle_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6B1E2700\awp.fbm\newparts2_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\772F8C\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\772F8C\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\ITP\Desktop\New folder\FPSGame v2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\view_glove_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\view_skin_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\view_finger_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\scope_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\buttstock_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\barrel_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\newparts_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\scope_clamps_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\ejector_port_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\base_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\magazine_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\bolt_handle_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B81B27A7\awp.fbm\newparts2_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5B273033\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5B273033\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+E:\Academic\Current_Classes\ITP380\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\view_glove_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\view_skin_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\view_finger_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\scope_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\buttstock_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\barrel_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\newparts_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\scope_clamps_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\ejector_port_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\base_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\magazine_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\bolt_handle_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C7252CA0\awp.fbm\newparts2_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D29E352C\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\D29E352C\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Everything\Academic\Current_Class\ITP380\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\view_glove_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\view_skin_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\view_finger_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\scope_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\buttstock_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\barrel_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\newparts_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\scope_clamps_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\ejector_port_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\base_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\magazine_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bolt_handle_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\newparts2_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.txt
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\awp.txt
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\view_glove_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\view_skin_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\view_finger_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\scope_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\buttstock_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\barrel_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\newparts_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\scope_clamps_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\ejector_port_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\base_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\magazine_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\bolt_handle_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2AFE290B\awp.fbm\newparts2_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\EB2F3197\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Administration\Desktop\SVN\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\EB2F3197\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGAMEV3.1\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGAMEV3.1\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\1FEE33DC\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\1FEE33DC\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\57273256\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\57273256\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Tony\Desktop\Tony's Folder\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2EA72DCA\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2EA72DCA\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Tianyu\Desktop\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Jeff\SVN Work\ITP 380 Final Project\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C42F8D\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C42F8D\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\ITP\Desktop\New folder\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\965632E8\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\965632E8\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Everything\Academic\Current_Class\cs\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\A7E52C98\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\A7E52C98\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Tianyu\Desktop\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2A7735B1\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\2A7735B1\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6EFF3610\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\6EFF3610\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.1-May01\FPSGame v3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5A1F3034\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5A1F3034\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.2\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5A6C3035\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5A6C3035\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\tree.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\ship.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\cs_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\boulder.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\rock01_unbaked_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\blimp.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.3\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7A52871\blimp.fbm\Blimp_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\tree.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\ship.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\boulder.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\blimp.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5AB93036\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\5AB93036\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\cs_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\rock01_unbaked_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7DF2872\blimp.fbm\Blimp_texture_0.xnb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+C:\Users\Potato\Desktop\FPSGame\FPSGame v3.4\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\tree.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\ship.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\boulder.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\blimp.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\9B523096\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\9B523096\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\18AF2872\ship.fbm\cs_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\94E629AB\boulder.fbm\rock01_unbaked_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\415828D2\blimp.fbm\Blimp_texture_0.xnb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+E:\Academic\Current_Classes\ITP380\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\tree.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\ship.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\boulder.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\blimp.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\69532BE3\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\69532BE3\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\44AC23BF\ship.fbm\cs_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\B2CA24F8\boulder.fbm\rock01_unbaked_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\68A2241F\blimp.fbm\Blimp_texture_0.xnb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.csprojResolveAssemblyReference.cache
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+H:\Academic\Portfolio\FPSGame v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_rifle_movement.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_model.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\crate.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\weap_pistol_gestalt.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Roland_bounding_box.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Weapons\gestalt_alien_rifle_maya.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\Hands_sniperRifle.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\waterPlaneMesh.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereMesh.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\tree.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\ship.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\boulder.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\blimp.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\skybox_texture.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\gunFire2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\bg.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2bk.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2dn.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2ft.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2lf.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2rt.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\halo_sky2up.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapHalo.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Sky\skySphereCubeMapSunsetStorm.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\dirt1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\grass.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\heightMap.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\noiseTexture.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\rock1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\sand.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\snow.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\terrainMap.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Terrain\wood.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Water\ripplesNormalMap.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\Skybox.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\BillboardEffect.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\GunShot.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\ParticleEffect.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\TerrainEffect.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\WaterEffect.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Effects\SkyEffect.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\gamefont.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AwpSound.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\sound2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\AwpSound.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\die3.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\dryfire_rifle.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\headshot3.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step3.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\pl_step4.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_conc-2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-1.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\ric_metal-2.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Audio\zoom.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Body_Diff_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\tex_Char_Roland_Head_Diff_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Map\ground_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\Crate.fbm\Crate_texture_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\G_Man_texture_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_diff_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\7D422C22\gestalt_alien_rifle_maya.fbm\tex_alien_rifle_ammo_diff_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\Hands\tex_hands_dif_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\thick_trunk_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Scenery\pine_branches01_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\53AF23FE\ship.fbm\cs_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\C28A2537\boulder.fbm\rock01_unbaked_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\FBX\77E4245E\blimp.fbm\Blimp_texture_0.xnb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\MainMenuMusic.wma
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\Content\AssetCollection\Characters\Roland\HitDetection\CollisionSpheres.txt
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\FPSGame.exe
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\FPSGame.pdb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.dll
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\bin\x86\Debug\SkinningInformation.pdb
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.csprojResolveAssemblyReference.cache
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.exe
+H:\Academic\Portfolio\FPSGame_v3.5\FPSGame\FPSGame\obj\x86\Debug\FPSGame.pdb
